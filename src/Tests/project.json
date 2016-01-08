@@ -1,0 +1,16 @@
+﻿{
+	"version": "1.0.0-*",
+	"commands": {
+        "test": "xunit.runner.dnx"
+    },
+  "frameworks": {
+		"dnx451": {
+			"dependencies": {}
+		}
+	},
+	"dependencies": {
+		"Selenium.WebDriverBackedSelenium": "2.48.2",
+		"xunit": "2.2.0-beta1-build3239",
+		"xunit.runner.dnx": "2.1.0-rc1-build204"
+	}
+}
