@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/MikeFoden/WebsiteTestingStarterKit.png?label=ready&title=Ready)](https://waffle.io/MikeFoden/WebsiteTestingStarterKit)
 # Website Testing Starter Kit
 
 This project is all about making it as easy as possible to get on to writing the great websites, without being bogged down in getting your automated testing up and running.
